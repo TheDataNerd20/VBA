@@ -1,4 +1,4 @@
-#  🏭� Plant Registry – Equipment Checker (Excel VBA Automation)
+#  🏭 Plant Registry – Equipment Checker (Excel VBA Automation)
 
 This project is an Excel-based automation tool that scans equipment records and highlights items that are overdue for maintenance.  
 It uses **VBA macros** to compare dates, identify equipment older than a defined threshold, and visually highlight those rows for quick action.
